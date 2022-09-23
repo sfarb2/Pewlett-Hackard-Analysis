@@ -41,5 +41,11 @@ It may be more useful to evaluate how many mentors are eligible/available by rol
 ### Recap of Staff Figures
 As previously stated, more than 72,000 employees are slated/eligible to retire - a daunting number to replace. Pewlett-Hackard has approximately 1,500 team members ready to offer mentorship to new staffers; however, the load on each will be significant. Aside from Assistant Engineers, mentors at each tier of the organization will be responsible for coaching more than 40 replacements apiece (and there are no Managers eligible to become mentors at this time).
 
+![roles_per_mentor.png](/roles_per_mentor.png)
+
+Even though the mentors will have a lot asked of them, it is also notable that the company will not lose all of its institutional knowledge. Each role has more than twice as many _remaining_ employees as it does _retiring_ employees.
+
+![retirees_and_remainees.png](/retirees_and_remainees.png)
+
 ### Recommendation
-In order to successfully weather this impending "silver tsunami", Pewlett-Hackard needs to focus on hiring immediately to ensure that it is able to replace the massive exodus of staff with new employees who have sufficient time to learn from a set of mentors who will be extremely taxed.
+Although well over 160,000 employees will remain after this impending "silver tsunami", Pewlett-Hackard needs to focus on hiring immediately to ensure that it is able to replace the massive exodus of staff (>30%) with new employees who have sufficient time to learn from a set of mentors who will be extremely taxed.
